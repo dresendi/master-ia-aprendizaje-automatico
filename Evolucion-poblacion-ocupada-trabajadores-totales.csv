@@ -1,196 +1,196 @@
-"Occupation ID","Occupation","Quarter ID","Quarter","Workforce","Monthly Wage","Time","type","type ID"
-2251,"Ingenieros Químicos",20123,"2012-Q3",20316,10569.376353612915,1343797200000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20124,"2012-Q4",17082,6104.720173281818,1351749600000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20131,"2013-Q1",17919,5739.529772866789,1359698400000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20132,"2013-Q2",17267,6066.0827011061565,1367384400000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20133,"2013-Q3",19918,4203.478260869565,1375333200000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20134,"2013-Q4",18606,4398.4585617542725,1383285600000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20141,"2014-Q1",20425,7102.51211750306,1391234400000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20142,"2014-Q2",13933,8238.072920404795,1398920400000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20143,"2014-Q3",20685,6278.627991298042,1406869200000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20144,"2014-Q4",17709,8291.885481958327,1414821600000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20151,"2015-Q1",17371,5451.980312014277,1422770400000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20152,"2015-Q2",21150,6463.484444444444,1430456400000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20153,"2015-Q3",14414,36102.09171638684,1438405200000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20154,"2015-Q4",17501,8981.52105593966,1446357600000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20161,"2016-Q1",17433,8196.675844662423,1454306400000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20162,"2016-Q2",17390,5853.216791259344,1462078800000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20163,"2016-Q3",15280,7613.678010471204,1470027600000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20164,"2016-Q4",13596,4158.929538099441,1477980000000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20171,"2017-Q1",17461,7629.428440524598,1485928800000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20172,"2017-Q2",10535,2810.706217370669,1493614800000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20173,"2017-Q3",15144,4654.580031695721,1501563600000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20174,"2017-Q4",14136,2835.58856819468,1509516000000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20181,"2018-Q1",9878,5414.33691030573,1517464800000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20182,"2018-Q2",16490,5119.011825348696,1525150800000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20183,"2018-Q3",10683,5759.196854816063,1533099600000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20184,"2018-Q4",10494,8434.319611206403,1541052000000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20191,"2019-Q1",9736,3262.9108463434677,1549000800000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20192,"2019-Q2",13016,8487.211124769514,1556686800000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20193,"2019-Q3",11991,4868.622300058377,1564635600000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20194,"2019-Q4",11086,6093.497203680317,1572588000000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20201,"2020-Q1",13729,8418.86881783087,1580536800000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20203,"2020-Q3",15278,3693.310642754287,1596258000000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20204,"2020-Q4",14712,5699.826943991299,1604210400000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20211,"2021-Q1",11168,7023.533309455587,1612159200000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20212,"2021-Q2",9950,3950.9849246231156,1619845200000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20213,"2021-Q3",12072,8527.693836978131,1627794000000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20214,"2021-Q4",14585,7211.249228659582,1635746400000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20221,"2022-Q1",15804,4269.35522652493,1643695200000,"Ingenieros Químicos",2251
-2251,"Ingenieros Químicos",20222,"2022-Q2",13425,7605.913594040969,1651381200000,"Ingenieros Químicos",2251
-2252,"Ingenieros Mecánicos",20123,"2012-Q3",26762,6741.844032583514,1343797200000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20124,"2012-Q4",36033,5622.816418283241,1351749600000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20131,"2013-Q1",30753,3781.4283159366564,1359698400000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20132,"2013-Q2",26619,5192.743904729704,1367384400000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20133,"2013-Q3",20556,5413.05458260362,1375333200000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20134,"2013-Q4",23991,4958.3006960943685,1383285600000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20141,"2014-Q1",24848,6890.23442530586,1391234400000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20142,"2014-Q2",25171,6001.833935878591,1398920400000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20143,"2014-Q3",37884,6289.3930683138,1406869200000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20144,"2014-Q4",32432,6480.400067834238,1414821600000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20151,"2015-Q1",34881,5214.160832544939,1422770400000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20152,"2015-Q2",30701,6836.6732353994985,1430456400000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20153,"2015-Q3",29578,6173.068665900331,1438405200000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20154,"2015-Q4",27077,7659.57454666322,1446357600000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20161,"2016-Q1",28717,10062.998920500053,1454306400000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20162,"2016-Q2",30921,8996.849713786747,1462078800000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20163,"2016-Q3",25526,7539.828410248374,1470027600000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20164,"2016-Q4",29039,4103.066083542822,1477980000000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20171,"2017-Q1",32704,4342.860200587084,1485928800000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20172,"2017-Q2",26249,5631.730313535753,1493614800000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20173,"2017-Q3",31078,6152.786054443658,1501563600000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20174,"2017-Q4",31009,5641.908639427263,1509516000000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20181,"2018-Q1",35468,4894.50902221721,1517464800000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20182,"2018-Q2",36862,4403.973631381911,1525150800000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20183,"2018-Q3",31777,8986.054693646349,1533099600000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20184,"2018-Q4",37865,4461.3894097451475,1541052000000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20191,"2019-Q1",28133,6924.96658728184,1549000800000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20192,"2019-Q2",38551,6868.208943996265,1556686800000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20193,"2019-Q3",36704,5793.944992371404,1564635600000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20194,"2019-Q4",52853,6664.216827805422,1572588000000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20201,"2020-Q1",36830,7416.64808579962,1580536800000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20203,"2020-Q3",32898,8568.608881998905,1596258000000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20204,"2020-Q4",27310,5772.526180886122,1604210400000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20211,"2021-Q1",33078,7374.349114214886,1612159200000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20212,"2021-Q2",41903,7464.91635443763,1619845200000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20213,"2021-Q3",26313,8423.632881085396,1627794000000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20214,"2021-Q4",37443,4066.3309029725183,1635746400000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20221,"2022-Q1",30731,8456.386385083466,1643695200000,"Ingenieros Mecánicos",2252
-2252,"Ingenieros Mecánicos",20222,"2022-Q2",27857,6432.8577018343685,1651381200000,"Ingenieros Mecánicos",2252
-2253,"Ingenieros Industriales",20123,"2012-Q3",50892,7091.011042993005,1343797200000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20124,"2012-Q4",52146,9417.573428450887,1351749600000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20131,"2013-Q1",59416,8220.901306045509,1359698400000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20132,"2013-Q2",56170,6991.1204735624,1367384400000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20133,"2013-Q3",49522,7115.813537417714,1375333200000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20134,"2013-Q4",45331,7307.9490856147,1383285600000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20141,"2014-Q1",52407,6640.798175816208,1391234400000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20142,"2014-Q2",47184,7113.671371651407,1398920400000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20143,"2014-Q3",64672,6730.176274121722,1406869200000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20144,"2014-Q4",58068,5944.815302748501,1414821600000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20151,"2015-Q1",41216,8430.797748447205,1422770400000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20152,"2015-Q2",59514,5540.29640084686,1430456400000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20153,"2015-Q3",58588,8810.851027514167,1438405200000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20154,"2015-Q4",60022,7035.502315817534,1446357600000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20161,"2016-Q1",48758,5773.01017268961,1454306400000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20162,"2016-Q2",57558,7367.496160394732,1462078800000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20163,"2016-Q3",60365,8497.125188437009,1470027600000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20164,"2016-Q4",55981,6806.13083010307,1477980000000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20171,"2017-Q1",70739,5980.56472384399,1485928800000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20172,"2017-Q2",60352,6061.115621686108,1493614800000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20173,"2017-Q3",67538,7108.117800349433,1501563600000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20174,"2017-Q4",71361,6545.863146536623,1509516000000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20181,"2018-Q1",79017,5055.1170381057245,1517464800000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20182,"2018-Q2",75697,5887.072684518541,1525150800000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20183,"2018-Q3",83498,6511.344343577091,1533099600000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20184,"2018-Q4",86252,5869.862078560497,1541052000000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20191,"2019-Q1",81671,5887.479031724847,1549000800000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20192,"2019-Q2",84613,8043.83859454221,1556686800000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20193,"2019-Q3",86411,7910.89478191434,1564635600000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20194,"2019-Q4",72815,9461.004422165763,1572588000000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20201,"2020-Q1",89707,6830.024568874224,1580536800000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20203,"2020-Q3",94577,7672.7673747317,1596258000000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20204,"2020-Q4",74363,7753.043045600634,1604210400000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20211,"2021-Q1",72898,8321.61654640731,1612159200000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20212,"2021-Q2",77340,7251.490651667959,1619845200000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20213,"2021-Q3",78592,8608.029735850978,1627794000000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20214,"2021-Q4",98004,6638.3941675849965,1635746400000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20221,"2022-Q1",98929,8485.317813785645,1643695200000,"Ingenieros Industriales",2253
-2253,"Ingenieros Industriales",20222,"2022-Q2",99960,10702.092096838736,1651381200000,"Ingenieros Industriales",2253
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20123,"2012-Q3",6733,8204.626763701173,1343797200000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20124,"2012-Q4",1486,15319.414535666217,1351749600000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20131,"2013-Q1",4760,14079.621848739496,1359698400000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20132,"2013-Q2",3448,15273.491879350348,1367384400000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20133,"2013-Q3",2364,13756.188663282572,1375333200000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20134,"2013-Q4",5667,12558.390682901007,1383285600000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20141,"2014-Q1",1809,12965.478164731896,1391234400000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20142,"2014-Q2",4721,14001.135988138107,1398920400000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20143,"2014-Q3",3007,7397.439308280678,1406869200000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20144,"2014-Q4",5143,8119.042387711453,1414821600000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20151,"2015-Q1",3818,3421.110529072813,1422770400000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20152,"2015-Q2",9198,32366.499782561426,1430456400000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20153,"2015-Q3",4664,5804.352487135506,1438405200000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20154,"2015-Q4",4590,17043.736383442265,1446357600000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20161,"2016-Q1",4567,3136.6871031311584,1454306400000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20162,"2016-Q2",5126,3613.1681623097934,1462078800000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20163,"2016-Q3",5093,4976.62085215001,1470027600000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20164,"2016-Q4",4745,5290.916754478399,1477980000000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20171,"2017-Q1",2710,10446.08856088561,1485928800000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20172,"2017-Q2",4302,7249.304974430497,1493614800000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20173,"2017-Q3",3506,7038.248716486024,1501563600000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20174,"2017-Q4",3227,11451.007127362876,1509516000000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20181,"2018-Q1",4475,12037.698324022347,1517464800000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20182,"2018-Q2",8148,8892.043446244477,1525150800000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20183,"2018-Q3",10840,8812.352398523984,1533099600000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20184,"2018-Q4",7727,6476.69211854536,1541052000000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20191,"2019-Q1",8873,12594.071903527556,1549000800000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20192,"2019-Q2",2447,13392.677973028198,1556686800000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20193,"2019-Q3",4147,9041.46612008681,1564635600000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20194,"2019-Q4",4672,13205.404537671233,1572588000000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20201,"2020-Q1",6575,16466.333079847907,1580536800000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20203,"2020-Q3",12995,8199.569065025009,1596258000000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20204,"2020-Q4",7815,10107.197696737045,1604210400000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20211,"2021-Q1",4542,15594.484808454425,1612159200000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20212,"2021-Q2",3394,7202.283441367118,1619845200000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20213,"2021-Q3",4825,14242.880829015545,1627794000000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20214,"2021-Q4",3787,8260.377607604963,1635746400000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20221,"2022-Q1",3573,16676.378393506857,1643695200000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2254,"Ingenieros en Minas, Metalurgia y Petróleo",20222,"2022-Q2",4044,13067.218100890208,1651381200000,"Ingenieros en Minas, Metalurgia y Petróleo",2254
-2261,"Ingenieros Civiles y de la Construcción",20123,"2012-Q3",53930,6882.002132393844,1343797200000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20124,"2012-Q4",60651,8151.3991855039485,1351749600000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20131,"2013-Q1",74086,5477.699835326513,1359698400000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20132,"2013-Q2",63804,6952.237320544166,1367384400000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20133,"2013-Q3",75803,6622.166009260847,1375333200000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20134,"2013-Q4",75067,8112.514367165332,1383285600000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20141,"2014-Q1",82065,6702.1661487845,1391234400000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20142,"2014-Q2",70924,7610.913315661835,1398920400000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20143,"2014-Q3",93973,8414.594617602928,1406869200000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20144,"2014-Q4",67622,7145.588403182396,1414821600000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20151,"2015-Q1",68504,6458.038216746468,1422770400000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20152,"2015-Q2",92706,8913.32339870127,1430456400000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20153,"2015-Q3",73714,6918.634045093198,1438405200000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20154,"2015-Q4",83771,5958.612252450132,1446357600000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20161,"2016-Q1",70122,6261.215310458914,1454306400000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20162,"2016-Q2",81312,6560.381001574184,1462078800000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20163,"2016-Q3",79024,7049.170315347236,1470027600000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20164,"2016-Q4",84424,5607.6417251018665,1477980000000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20171,"2017-Q1",93598,7139.455383662044,1485928800000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20172,"2017-Q2",81988,8545.58845196858,1493614800000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20173,"2017-Q3",82919,6910.739999276402,1501563600000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20174,"2017-Q4",75972,6323.57284262623,1509516000000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20181,"2018-Q1",88239,6539.637745214701,1517464800000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20182,"2018-Q2",102073,7000.623279417671,1525150800000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20183,"2018-Q3",98252,6814.389427187233,1533099600000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20184,"2018-Q4",89519,6252.4317742602125,1541052000000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20191,"2019-Q1",86695,6814.425249437684,1549000800000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20192,"2019-Q2",98778,5487.879254489866,1556686800000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20193,"2019-Q3",100084,5901.695905439431,1564635600000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20194,"2019-Q4",113907,8097.104752122345,1572588000000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20201,"2020-Q1",92135,7240.213643023823,1580536800000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20203,"2020-Q3",104608,6344.394778602019,1596258000000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20204,"2020-Q4",87693,7342.362218193014,1604210400000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20211,"2021-Q1",114755,5616.655309136857,1612159200000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20212,"2021-Q2",97810,8784.605050608323,1619845200000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20213,"2021-Q3",78996,7352.664312117069,1627794000000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20214,"2021-Q4",93331,7824.140253506338,1635746400000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20221,"2022-Q1",77434,8288.998308236693,1643695200000,"Ingenieros Civiles y de la Construcción",2261
-2261,"Ingenieros Civiles y de la Construcción",20222,"2022-Q2",86232,8137.572710826607,1651381200000,"Ingenieros Civiles y de la Construcción",2261
+Occupation ID,Occupation,Quarter ID,Quarter,Workforce,Monthly Wage,Time,type,type ID
+2251,Ingenieros Químicos,20123,2012-Q3,20316,10569.37635,1.3438E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20124,2012-Q4,17082,6104.720173,1.35175E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20131,2013-Q1,17919,5739.529773,1.3597E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20132,2013-Q2,17267,6066.082701,1.36738E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20133,2013-Q3,19918,4203.478261,1.37533E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20134,2013-Q4,18606,4398.458562,1.38329E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20141,2014-Q1,20425,7102.512118,1.39123E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20142,2014-Q2,13933,8238.07292,1.39892E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20143,2014-Q3,20685,6278.627991,1.40687E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20144,2014-Q4,17709,8291.885482,1.41482E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20151,2015-Q1,17371,5451.980312,1.42277E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20152,2015-Q2,21150,6463.484444,1.43046E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20153,2015-Q3,14414,36102.09172,1.43841E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20154,2015-Q4,17501,8981.521056,1.44636E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20161,2016-Q1,17433,8196.675845,1.45431E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20162,2016-Q2,17390,5853.216791,1.46208E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20163,2016-Q3,15280,7613.67801,1.47003E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20164,2016-Q4,13596,4158.929538,1.47798E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20171,2017-Q1,17461,7629.428441,1.48593E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20172,2017-Q2,10535,2810.706217,1.49361E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20173,2017-Q3,15144,4654.580032,1.50156E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20174,2017-Q4,14136,2835.588568,1.50952E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20181,2018-Q1,9878,5414.33691,1.51746E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20182,2018-Q2,16490,5119.011825,1.52515E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20183,2018-Q3,10683,5759.196855,1.5331E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20184,2018-Q4,10494,8434.319611,1.54105E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20191,2019-Q1,9736,3262.910846,1.549E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20192,2019-Q2,13016,8487.211125,1.55669E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20193,2019-Q3,11991,4868.6223,1.56464E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20194,2019-Q4,11086,6093.497204,1.57259E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20201,2020-Q1,13729,8418.868818,1.58054E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20203,2020-Q3,15278,3693.310643,1.59626E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20204,2020-Q4,14712,5699.826944,1.60421E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20211,2021-Q1,11168,7023.533309,1.61216E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20212,2021-Q2,9950,3950.984925,1.61985E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20213,2021-Q3,12072,8527.693837,1.62779E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20214,2021-Q4,14585,7211.249229,1.63575E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20221,2022-Q1,15804,4269.355227,1.6437E+12,Ingenieros Químicos,2251
+2251,Ingenieros Químicos,20222,2022-Q2,13425,7605.913594,1.65138E+12,Ingenieros Químicos,2251
+2252,Ingenieros Mecánicos,20123,2012-Q3,26762,6741.844033,1.3438E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20124,2012-Q4,36033,5622.816418,1.35175E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20131,2013-Q1,30753,3781.428316,1.3597E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20132,2013-Q2,26619,5192.743905,1.36738E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20133,2013-Q3,20556,5413.054583,1.37533E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20134,2013-Q4,23991,4958.300696,1.38329E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20141,2014-Q1,24848,6890.234425,1.39123E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20142,2014-Q2,25171,6001.833936,1.39892E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20143,2014-Q3,37884,6289.393068,1.40687E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20144,2014-Q4,32432,6480.400068,1.41482E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20151,2015-Q1,34881,5214.160833,1.42277E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20152,2015-Q2,30701,6836.673235,1.43046E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20153,2015-Q3,29578,6173.068666,1.43841E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20154,2015-Q4,27077,7659.574547,1.44636E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20161,2016-Q1,28717,10062.99892,1.45431E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20162,2016-Q2,30921,8996.849714,1.46208E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20163,2016-Q3,25526,7539.82841,1.47003E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20164,2016-Q4,29039,4103.066084,1.47798E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20171,2017-Q1,32704,4342.860201,1.48593E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20172,2017-Q2,26249,5631.730314,1.49361E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20173,2017-Q3,31078,6152.786054,1.50156E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20174,2017-Q4,31009,5641.908639,1.50952E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20181,2018-Q1,35468,4894.509022,1.51746E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20182,2018-Q2,36862,4403.973631,1.52515E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20183,2018-Q3,31777,8986.054694,1.5331E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20184,2018-Q4,37865,4461.38941,1.54105E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20191,2019-Q1,28133,6924.966587,1.549E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20192,2019-Q2,38551,6868.208944,1.55669E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20193,2019-Q3,36704,5793.944992,1.56464E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20194,2019-Q4,52853,6664.216828,1.57259E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20201,2020-Q1,36830,7416.648086,1.58054E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20203,2020-Q3,32898,8568.608882,1.59626E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20204,2020-Q4,27310,5772.526181,1.60421E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20211,2021-Q1,33078,7374.349114,1.61216E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20212,2021-Q2,41903,7464.916354,1.61985E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20213,2021-Q3,26313,8423.632881,1.62779E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20214,2021-Q4,37443,4066.330903,1.63575E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20221,2022-Q1,30731,8456.386385,1.6437E+12,Ingenieros Mecánicos,2252
+2252,Ingenieros Mecánicos,20222,2022-Q2,27857,6432.857702,1.65138E+12,Ingenieros Mecánicos,2252
+2253,Ingenieros Industriales,20123,2012-Q3,50892,7091.011043,1.3438E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20124,2012-Q4,52146,9417.573428,1.35175E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20131,2013-Q1,59416,8220.901306,1.3597E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20132,2013-Q2,56170,6991.120474,1.36738E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20133,2013-Q3,49522,7115.813537,1.37533E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20134,2013-Q4,45331,7307.949086,1.38329E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20141,2014-Q1,52407,6640.798176,1.39123E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20142,2014-Q2,47184,7113.671372,1.39892E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20143,2014-Q3,64672,6730.176274,1.40687E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20144,2014-Q4,58068,5944.815303,1.41482E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20151,2015-Q1,41216,8430.797748,1.42277E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20152,2015-Q2,59514,5540.296401,1.43046E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20153,2015-Q3,58588,8810.851028,1.43841E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20154,2015-Q4,60022,7035.502316,1.44636E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20161,2016-Q1,48758,5773.010173,1.45431E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20162,2016-Q2,57558,7367.49616,1.46208E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20163,2016-Q3,60365,8497.125188,1.47003E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20164,2016-Q4,55981,6806.13083,1.47798E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20171,2017-Q1,70739,5980.564724,1.48593E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20172,2017-Q2,60352,6061.115622,1.49361E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20173,2017-Q3,67538,7108.1178,1.50156E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20174,2017-Q4,71361,6545.863147,1.50952E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20181,2018-Q1,79017,5055.117038,1.51746E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20182,2018-Q2,75697,5887.072685,1.52515E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20183,2018-Q3,83498,6511.344344,1.5331E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20184,2018-Q4,86252,5869.862079,1.54105E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20191,2019-Q1,81671,5887.479032,1.549E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20192,2019-Q2,84613,8043.838595,1.55669E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20193,2019-Q3,86411,7910.894782,1.56464E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20194,2019-Q4,72815,9461.004422,1.57259E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20201,2020-Q1,89707,6830.024569,1.58054E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20203,2020-Q3,94577,7672.767375,1.59626E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20204,2020-Q4,74363,7753.043046,1.60421E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20211,2021-Q1,72898,8321.616546,1.61216E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20212,2021-Q2,77340,7251.490652,1.61985E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20213,2021-Q3,78592,8608.029736,1.62779E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20214,2021-Q4,98004,6638.394168,1.63575E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20221,2022-Q1,98929,8485.317814,1.6437E+12,Ingenieros Industriales,2253
+2253,Ingenieros Industriales,20222,2022-Q2,99960,10702.0921,1.65138E+12,Ingenieros Industriales,2253
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20123,2012-Q3,6733,8204.626764,1.3438E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20124,2012-Q4,1486,15319.41454,1.35175E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20131,2013-Q1,4760,14079.62185,1.3597E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20132,2013-Q2,3448,15273.49188,1.36738E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20133,2013-Q3,2364,13756.18866,1.37533E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20134,2013-Q4,5667,12558.39068,1.38329E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20141,2014-Q1,1809,12965.47816,1.39123E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20142,2014-Q2,4721,14001.13599,1.39892E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20143,2014-Q3,3007,7397.439308,1.40687E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20144,2014-Q4,5143,8119.042388,1.41482E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20151,2015-Q1,3818,3421.110529,1.42277E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20152,2015-Q2,9198,32366.49978,1.43046E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20153,2015-Q3,4664,5804.352487,1.43841E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20154,2015-Q4,4590,17043.73638,1.44636E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20161,2016-Q1,4567,3136.687103,1.45431E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20162,2016-Q2,5126,3613.168162,1.46208E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20163,2016-Q3,5093,4976.620852,1.47003E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20164,2016-Q4,4745,5290.916754,1.47798E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20171,2017-Q1,2710,10446.08856,1.48593E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20172,2017-Q2,4302,7249.304974,1.49361E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20173,2017-Q3,3506,7038.248716,1.50156E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20174,2017-Q4,3227,11451.00713,1.50952E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20181,2018-Q1,4475,12037.69832,1.51746E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20182,2018-Q2,8148,8892.043446,1.52515E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20183,2018-Q3,10840,8812.352399,1.5331E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20184,2018-Q4,7727,6476.692119,1.54105E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20191,2019-Q1,8873,12594.0719,1.549E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20192,2019-Q2,2447,13392.67797,1.55669E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20193,2019-Q3,4147,9041.46612,1.56464E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20194,2019-Q4,4672,13205.40454,1.57259E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20201,2020-Q1,6575,16466.33308,1.58054E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20203,2020-Q3,12995,8199.569065,1.59626E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20204,2020-Q4,7815,10107.1977,1.60421E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20211,2021-Q1,4542,15594.48481,1.61216E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20212,2021-Q2,3394,7202.283441,1.61985E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20213,2021-Q3,4825,14242.88083,1.62779E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20214,2021-Q4,3787,8260.377608,1.63575E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20221,2022-Q1,3573,16676.37839,1.6437E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2254,"Ingenieros en Minas, Metalurgia y Petróleo",20222,2022-Q2,4044,13067.2181,1.65138E+12,"Ingenieros en Minas, Metalurgia y Petróleo",2254
+2261,Ingenieros Civiles,20123,2012-Q3,53930,6882.002132,1.3438E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20124,2012-Q4,60651,8151.399186,1.35175E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20131,2013-Q1,74086,5477.699835,1.3597E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20132,2013-Q2,63804,6952.237321,1.36738E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20133,2013-Q3,75803,6622.166009,1.37533E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20134,2013-Q4,75067,8112.514367,1.38329E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20141,2014-Q1,82065,6702.166149,1.39123E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20142,2014-Q2,70924,7610.913316,1.39892E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20143,2014-Q3,93973,8414.594618,1.40687E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20144,2014-Q4,67622,7145.588403,1.41482E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20151,2015-Q1,68504,6458.038217,1.42277E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20152,2015-Q2,92706,8913.323399,1.43046E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20153,2015-Q3,73714,6918.634045,1.43841E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20154,2015-Q4,83771,5958.612252,1.44636E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20161,2016-Q1,70122,6261.21531,1.45431E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20162,2016-Q2,81312,6560.381002,1.46208E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20163,2016-Q3,79024,7049.170315,1.47003E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20164,2016-Q4,84424,5607.641725,1.47798E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20171,2017-Q1,93598,7139.455384,1.48593E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20172,2017-Q2,81988,8545.588452,1.49361E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20173,2017-Q3,82919,6910.739999,1.50156E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20174,2017-Q4,75972,6323.572843,1.50952E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20181,2018-Q1,88239,6539.637745,1.51746E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20182,2018-Q2,102073,7000.623279,1.52515E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20183,2018-Q3,98252,6814.389427,1.5331E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20184,2018-Q4,89519,6252.431774,1.54105E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20191,2019-Q1,86695,6814.425249,1.549E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20192,2019-Q2,98778,5487.879254,1.55669E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20193,2019-Q3,100084,5901.695905,1.56464E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20194,2019-Q4,113907,8097.104752,1.57259E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20201,2020-Q1,92135,7240.213643,1.58054E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20203,2020-Q3,104608,6344.394779,1.59626E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20204,2020-Q4,87693,7342.362218,1.60421E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20211,2021-Q1,114755,5616.655309,1.61216E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20212,2021-Q2,97810,8784.605051,1.61985E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20213,2021-Q3,78996,7352.664312,1.62779E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20214,2021-Q4,93331,7824.140254,1.63575E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20221,2022-Q1,77434,8288.998308,1.6437E+12,Ingenieros Civiles,2261
+2261,Ingenieros Civiles,20222,2022-Q2,86232,8137.572711,1.65138E+12,Ingenieros Civiles,2261
